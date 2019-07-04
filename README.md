@@ -1,3 +1,5 @@
+<img src="octocat.png" alt="drawing" width="250" align="right"/>
+
 # Some info about Jeff
 Hi, I'm Jeff Ellenbogen and I am practicing with my new GitHub for dummies book
 
