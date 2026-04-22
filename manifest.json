@@ -1,0 +1,22 @@
+{
+  "name": "Task Manager",
+  "short_name": "Tasks",
+  "description": "A mobile-first task manager PWA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "octocat.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "octocat.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
